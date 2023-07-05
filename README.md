@@ -10,6 +10,9 @@ Fer2013：https://www.kaggle.com/c/challenges-in-representation-learning-facial-
 Fer+：https://github.com/Microsoft/FERPlus
 
 ### Visualization
+FER VS FER+ (Adopted from [**FER+**](https://github.com/microsoft/FERPlus))
+
+Random Erasing Augmentation
 
 ### Usage
 Please download both CSV files before running the following commands.
