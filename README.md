@@ -9,6 +9,8 @@ Fer2013：https://www.kaggle.com/c/challenges-in-representation-learning-facial-
 
 Fer+：https://github.com/Microsoft/FERPlus
 
+### Visualization
+
 ### Usage
 Please download both CSV files before running the following commands.
 To train the Resnet 18 model, run the following:
@@ -24,7 +26,9 @@ For the live camera emotion prediction, run the following:
 python live_cam_pred.py
 ```
 ### Evaluation
+Confusion Matrix: 
 
+![Alt text](https://raw.githubusercontent.com/MeB4You/FER2013/main/imgs/cm.png)
 ### References: 
 1.	He, Kaiming, et al. ‘Deep Residual Learning for Image Recognition’. ArXiv [Cs.CV], 2015, http://arxiv.org/abs/1512.03385. arXiv.
 2.	Zhong, Zhun, et al. ‘Random Erasing Data Augmentation’. ArXiv [Cs.CV], 2017, http://arxiv.org/abs/1708.04896. arXiv
