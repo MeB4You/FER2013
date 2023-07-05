@@ -33,7 +33,7 @@ For the live camera emotion prediction, run the following:
 python live_cam_pred.py
 ```
 ### Evaluation
-"Training Error VS Validation Error" And "Training Loss VS Validation Loss"
+"Training Accuracy VS Validation Accuracy" and "Training Loss VS Validation Loss"
 
 ![Alt text](https://raw.githubusercontent.com/MeB4You/FER2013/main/imgs/plt.png)
 
